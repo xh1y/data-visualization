@@ -1,9 +1,6 @@
+import Main from '@/pages/main'
 function App() {
-  return (
-    <div>
-      <h2 className='bg-red-300'>App</h2>
-    </div>
-  )
+  return <Main />
 }
 
 export default App
